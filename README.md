@@ -1,3 +1,5 @@
+another test
+
 Homebrew
 ========
 Features and usage are [summarized on the homepage][homepage].
